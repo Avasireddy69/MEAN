@@ -1,0 +1,21 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Dude",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mocha": "^6.0.2",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.20"
+  }
+}
